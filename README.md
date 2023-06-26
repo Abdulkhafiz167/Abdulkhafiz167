@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Kapitan-ketchup/Kapitan-ketchup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm Abdulkhafiz. I'm a beginner Front-end developer!
 
-Here are some ideas to get you started:
+## Languages and tools:
+![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logoHTML&logoColor=E9D54D)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=E9D54D)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS&logoColor=E9D54D)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=E9D54D)
+![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=Tailwind&logoColor=E9D54D)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=E9D54D)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Corvo_252)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/sgm_167)
