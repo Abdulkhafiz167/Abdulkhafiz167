@@ -3,11 +3,11 @@
 ## Hello, I'm Abdulkhafiz. I'm a beginner Front-end developer!
 
 ## Languages and tools:
-![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logoHTML&logoColor=E9D54D)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=E9D54D)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS&logoColor=E9D54D)
+![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html&logoColor=E9D54D)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=E9D54D)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=scss&logoColor=E9D54D)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=E9D54D)
-![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=Tailwind&logoColor=E9D54D)
+![Tailwind](https://img.shields.io/badge/-Tailwind-090909?style=for-the-badge&logo=tailwind&logoColor=E9D54D)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=E9D54D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 
