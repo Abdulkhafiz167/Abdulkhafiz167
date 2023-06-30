@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm frontend-developer
 ----------------------
 
-* 🌍  I'm based in Tashkent
-* ✉️  You can contact me at [mahamadzonovabdulhafiz@gmail.com](mailto:mahamadzonovabdulhafiz@gmail.com)
+* 🌍  I'm currently living in Tashkent
+* ✉️  You can contact me at [mahamadzonovabdulhafiz@gmail.com](mailto:mahamadzonovabdulhafiz@gmail.com) 
 
-### Skills
+### Skills and Tools
 
 
 <p align="left">
