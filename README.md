@@ -5,7 +5,14 @@ I'm frontend-developer
 ----------------------
 
 * 🌍  I'm currently living in Tashkent
-* ✉️  You can contact me at [mahamadzonovabdulhafiz@gmail.com](mailto:mahamadzonovabdulhafiz@gmail.com) 
+* ✉️  You can contact me at [mahamadzonovabdulhafiz@gmail.com](mailto:mahamadzonovabdulhafiz@gmail.com)
+* 🌱  I’m currently learning Typescript
+* ❓  Ask me about anything related front-end developments
+* ⚡  Fun fact: Usually I'm working over 6 hours a day⭐
+
+
+
+
 
 ### Skills and Tools
 
