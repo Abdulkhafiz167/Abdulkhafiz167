@@ -1,4 +1,4 @@
-<h1> Hi I'm Abdulkhafiz <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 text-align="center"> Hi I'm Abdulkhafiz <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ===================================================================================================================================
 
 I'm frontend-developer
